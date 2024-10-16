@@ -3,7 +3,7 @@ Praticando os conhecimento adquiridos na liguagem JavaScript.
 Como base utilizei exemplo do figma.
 <br>
 <br>
-Aplicação para converção de moedas
+Aplicação para converção de moedas.
 <img src="https://github.com/itamartgomes/Convert-Money/blob/main/assets/img/Convert-Money-Print.png?raw=true" />
 
 Nesse projeto foi utilizado:
